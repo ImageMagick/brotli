@@ -1,0 +1,12 @@
+[STATIC]
+
+[LICENSE]
+LICENSE
+
+[DIRECTORIES]
+c\common
+c\dec
+c\enc
+
+[INCLUDES]
+c\include
