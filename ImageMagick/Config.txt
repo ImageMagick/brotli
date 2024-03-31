@@ -10,3 +10,5 @@ c\enc
 
 [INCLUDES]
 c\include
+
+[ONLY_IMAGEMAGICK7]
