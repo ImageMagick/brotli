@@ -7,7 +7,7 @@
 2023-08-31
 
 [PRODUCT_NAME]
-brorli
+brotli
 
 [COMPANY_NAME]
 Brotli Authors
