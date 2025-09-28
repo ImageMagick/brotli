@@ -1,5 +1,23 @@
 [DYNAMIC_LIBRARY]
 
+[VERSION]
+1.1.0
+
+[RELEASE_DATE]
+2023-08-31
+
+[PRODUCT_NAME]
+brorli
+
+[COMPANY_NAME]
+Brotli Authors
+
+[URL]
+https://github.com/google/brotli
+
+[COPYRIGHT]
+Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
+
 [LICENSE_FILE]
 LICENSE
 
