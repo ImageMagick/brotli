@@ -37,5 +37,6 @@ c\include
 c\include\brotli -> brotli
 
 [EXCLUDES]
+c\enc\static_init_lazy.cc
 c\tools\
 python
